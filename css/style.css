@@ -50,7 +50,7 @@ Table of Content
 
 
 /* import fonts icon */
-@import url("../fonts/font-awesome/css/font-awesome.css");
+@import url("../fonts/font-awesome-6/css/all.min.css");
 @import url("../fonts/elegant_font/HTML_CSS/style.css");
 @import url("../fonts/et-line-font/style.css");
 
@@ -1336,7 +1336,7 @@ section.no-bg,
 footer {
     /*background:url('../images/logo-big.png') -50% center no-repeat var(--primary-color) !important;*/
     color: rgba(255, 255, 255, .8);
-    padding: 20px 0;
+    padding: 8px 0;
     border-top: solid 1px rgba(0, 0, 0, .1);
 }
 
