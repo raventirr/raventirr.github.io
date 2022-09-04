@@ -1341,7 +1341,7 @@ footer {
 }
 
 .dark-scheme footer {
-    background: rgba(0, 0, 0, .1);
+    background: rgba(116, 0, 0, 0.1);
     border-top: solid 1px rgba(255, 255, 255, .1);
 }
 
@@ -11444,7 +11444,7 @@ body.dark-scheme::-webkit-scrollbar-thumb,.dark-scheme #de_modal::-webkit-scroll
 }
 
 .dark-scheme #de_modal{
-    background: #171A1D;;
+    background: url(https://i.postimg.cc/7hrhP9ZZ/bckgworks.jpg);;
 }
 
 .de_modal{
